@@ -2,7 +2,7 @@
 My self-studying journey about computer science and computer programming.
 
 ## The Journey
-The journey starts with July 26, 2024. Before the journey, I studied many things but it is not planned, so the studying journey NOT from zero but this will be to hero I expect. The journey will being continued with cross-studying but not multitasking. The progresses of my codings will be in the journey.
+The journey starts with July 26, 2024. Before the journey, I had studied many things but it is not planned, so the studying journey NOT from zero but this will be to hero I expect. The journey will being continued with cross-studying but not multitasking. The progresses of my codings will be in the journey.
 
 ### First Path
 
