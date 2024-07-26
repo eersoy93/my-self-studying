@@ -9,9 +9,9 @@ The journey starts with July 26, 2024. Before the journey, I studied many things
 - [ ] [Read Game Engine Black Book: Wolfenstein 3D](https://github.com/fabiensanglard/gebbwolf3) (due date Aug 1, 2024)
 - [ ] [Read Game Engine Black Book: Doom](https://github.com/fabiensanglard/gebbdoom)
 
-### Second Path
+### Second Path (for my [E93](https://github.com/eersoy93/E93) project)
 
-Not determined yet.
+- [ ] Finish to add PCI IDE support (due date Aug 1, 2024)
 
 ### Third Path
 
