@@ -11,7 +11,7 @@ The journey starts with July 26, 2024. Before the journey, I had studied many th
 
 ### Second Path (for my [E93](https://github.com/eersoy93/E93) project)
 
-- [ ] Finish to add PCI IDE support (due date Aug 1, 2024)
+- [ ] Finish to add PCI IDE support
 
 ### Third Path
 
