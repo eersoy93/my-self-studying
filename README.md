@@ -2,7 +2,7 @@
 My self-studying journey about computer science and computer programming. This is inspired from [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 
 ## The Journey
-The journey starts with July 26, 2024. Before the journey, I had studied many things but it is not planned, so the studying journey NOT from zero but this will be to hero I expect. The journey will being continued with cross-studying but not multitasking.
+The journey starts with July 26, 2024. Before the journey, I had studied many things but it is not planned, so the studying journey NOT from zero but this will be to hero I expect. The journey may be continued with multitasking.
 
 ### First Path
 
