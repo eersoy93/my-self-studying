@@ -11,4 +11,4 @@ The journey starts with July 26, 2024. Before the journey, I had studied many th
 
 ### Second Path
 
-Not determined yet.
+- [ ] Study Java with ChatGPT (due date Aug 17, 2024)
